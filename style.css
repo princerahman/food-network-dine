@@ -149,34 +149,18 @@ body{
 .link-section{
     display: flex;
     justify-content: center;
-    background-color: #311ab4;
+    background-color: orange;
 }
 .links{
     width: 20%;
 }
-.links h2{
-    margin-bottom: 10px;
-    margin-top: 50px;
-    color: white;
+.links h1{
+    margin-bottom: 20px;
+    margin-top: 70px;
+    font-size: 50px;
+    color: rgb(151, 19, 19);
 }
-.links a{
-    display:block;
-    text-decoration: none;
-    color: white;
-    margin-bottom: 10px;
-}
-.links p{
-    color: white;
-    font-weight:100;
-    margin-bottom: 10px;
 
-}
-.links a:hover{
-   text-decoration: underline;
-}
-#about-us-color{
-    color: gray;
-}
 footer{
     text-align: center;
     background-color: black;

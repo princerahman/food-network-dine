@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.food-section{
+    display: flex;
+    margin-bottom: 100px;
+}
+body{
+    font-family: 'Rubik', sans-serif;
+}

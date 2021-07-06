@@ -2,14 +2,14 @@
     margin: 0;
     padding: 0;
 }
-
+body{
+    font-family: 'Rubik', sans-serif;
+}
 .food-section{
     display: flex;
     margin-bottom: 100px;
 }
-body{
-    font-family: 'Rubik', sans-serif;
-}
+
 .food-section{
     display: flex;
     margin-bottom: 100px;
@@ -37,9 +37,9 @@ body{
     margin-left: 100px;
     font-weight: bold;
     color: white;
-    background-image: linear-gradient(to right, rgb(240, 100, 18) ,red);
+    background-image: linear-gradient(to right,red, rgb(240, 100, 18) );
     padding:20px 40px;
-    margin-top: 40px;
+    margin-top: 35px;
     border-radius:35px;
 }
 .model2{

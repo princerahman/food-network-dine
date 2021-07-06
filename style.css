@@ -23,7 +23,7 @@ body{
     margin-left: 100px;
 }
 .heading-color{
-    color: orange;
+    color: orangered;
 }
 .div-section p{
     margin-left: 100px;
@@ -103,10 +103,10 @@ body{
     display: flex;
     justify-content: center;
 }
-.countdown-element{
+.countdown-part{
     margin: 50px;
 }
-.countdown-element h1{
+.countdown-part h1{
     font-size: 50px;
 }
 .link-section{

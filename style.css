@@ -10,3 +10,180 @@
 body{
     font-family: 'Rubik', sans-serif;
 }
+.food-section{
+    display: flex;
+    margin-bottom: 100px;
+}
+.div-section{
+    width: 50%;
+}
+.div-section h1{
+    font-size: 50px;
+    margin-top: 150px;
+    margin-left: 100px;
+}
+.heading-color{
+    color: orange;
+}
+.div-section p{
+    margin-left: 100px;
+    font-weight: bold;
+    margin-top: 20px;
+    color: gray;
+}
+.div-section a{
+    display:table;
+    text-decoration: none;
+    margin-left: 100px;
+    font-weight: bold;
+    color: white;
+    background-image: linear-gradient(to right, rgb(240, 100, 18) ,red);
+    padding:20px 40px;
+    margin-top: 40px;
+    border-radius:35px;
+}
+.model2{
+    width: 80%;
+    margin-left: 50px;
+}
+.background{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#model2-about{
+    font-size: 30px;
+}
+#model2-about-summery{
+    font-weight: normal;
+    padding-right: 200px;
+}
+.recipe-section{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 80px;
+}
+.recipe-about{
+    height: 100px;
+    text-align: center;
+}
+.recipe-about p{
+    margin-top: 20px;
+}
+.recipe-about h1{
+    font-size: 30px;
+}
+.recipe{
+    width: 25%;
+    background-color: white;
+    margin: 20px;
+    border-radius: 5%;
+    height: 450px;
+    box-shadow: 0px 0px 34px -17px grey;
+}
+.recipe img{
+    width: 90%;
+    height: 220px;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 5%;
+}
+.recipe h1{
+    margin: 20px 10px;
+}
+.recipe p{
+    margin: 10px 10px;
+}
+.countdown{
+    height: 180px;
+    margin: 111px;
+    border-radius: 20px;
+    box-shadow:  0px 0px 34px -17px grey;
+    display: flex;
+    justify-content: center;
+}
+.countdown-element{
+    margin: 50px;
+}
+.countdown-element h1{
+    font-size: 50px;
+}
+.booking{
+    height: 430px;
+    width: 80%;
+    margin: auto;
+    box-shadow:  0px 0px 34px -17px grey;
+    background-color: rgb(236, 222, 195);
+    border-radius: 10px;
+}
+.booking h1{
+    text-align: center;
+    font-size: 50px;
+}
+.booking p{
+    text-align: center;
+}
+.booking-form{
+    margin-top: 30px;
+}
+
+.booking-element{
+    width: 96%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-left: 24px;
+}
+.booking-form button{
+    display: block;
+    margin: auto;
+    padding: 20px 40px;
+    background-color: rgb(255, 60, 0);
+    color: white;
+    border-radius: 15px;
+    font-weight: bold;
+}
+.link-section{
+    display: flex;
+    justify-content: center;
+    background-color: #311ab4;
+}
+.links{
+    width: 20%;
+}
+.links h2{
+    margin-bottom: 10px;
+    margin-top: 50px;
+    color: white;
+}
+.links a{
+    display:block;
+    text-decoration: none;
+    color: white;
+    margin-bottom: 10px;
+}
+.links p{
+    color: white;
+    font-weight:100;
+    margin-bottom: 10px;
+
+}
+.links a:hover{
+   text-decoration: underline;
+}
+#about-us-color{
+    color: gray;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    overflow: hidden;
+    height: 150px;
+}
+footer h1{
+    margin: 20px;
+}
